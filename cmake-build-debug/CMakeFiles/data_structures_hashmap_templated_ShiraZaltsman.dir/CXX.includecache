@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/data-structures-hashmap-templated-ShiraZaltsman/HashMap.h
+vector
+-
+LinkedList.h
+/home/shira/Desktop/data-structures-hashmap-templated-ShiraZaltsman/LinkedList.h
+
+/home/shira/Desktop/data-structures-hashmap-templated-ShiraZaltsman/LinkedList.h
+clocale
+-
+iostream
+-
+
+/home/shira/Desktop/data-structures-hashmap-templated-ShiraZaltsman/main.cpp
+iostream
+-
+HashMap.h
+/home/shira/Desktop/data-structures-hashmap-templated-ShiraZaltsman/HashMap.h
+
